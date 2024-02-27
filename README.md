@@ -1,4 +1,4 @@
-# **Project Description:**
+**Project Description:**
 This project implements a real-time vehicle counting system using OpenCV, a powerful computer vision library. The system is designed to analyze video footage and detect vehicles, keeping track of their count as they cross a predefined line. The application is capable of handling various environmental conditions and provides visual feedback on the video stream, displaying the count in real-time.
 
 **Objective:**
